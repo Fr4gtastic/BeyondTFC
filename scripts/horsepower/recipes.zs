@@ -1,0 +1,1 @@
+recipes.remove(<horsepower:hand_grindstone>);

@@ -1,0 +1,21 @@
+import mods.betterwithmods.Kiln;
+
+Kiln.remove(<betterwithmods:raw_pastry>);
+Kiln.remove(<betterwithmods:raw_pastry:2>);
+Kiln.remove(<betterwithmods:raw_pastry:1>);
+Kiln.remove(<betterwithmods:raw_pastry:3>);
+Kiln.remove(<betterwithaddons:unbaked>);
+Kiln.remove(<betterwithaddons:unbaked:3>);
+Kiln.remove(<betterwithmods:unfired_pottery:4>);
+Kiln.remove(<betterwithmods:unfired_pottery:5>);
+Kiln.remove(<betterwithmods:nether_clay>);
+Kiln.remove(<minecraft:end_stone>);
+Kiln.remove(<minecraft:gold_ore>);
+Kiln.remove(<minecraft:iron_ore>);
+Kiln.remove(<minecraft:diamond_ore>);
+Kiln.remove(<minecraft:coal_ore>);
+Kiln.remove(<minecraft:lapis_ore>);
+Kiln.remove(<minecraft:redstone_ore>);
+Kiln.remove(<minecraft:quartz_ore>);
+Kiln.remove(<minecraft:emerald_ore>);
+Kiln.remove([<minecraft:coal:1>]);

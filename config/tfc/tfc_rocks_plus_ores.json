@@ -1,0 +1,28 @@
+{
+  "mawsonite": {
+    "ore": "tfc_rocksplus:mawsonite",
+    "width": 15,
+    "height": 20,
+    "shape": "cluster",
+    "rarity": 70,
+    "minimum_height": 128,
+    "maximum_height": 140,
+    "density": 50,
+    "base_rocks": [
+      "tfc:metamorphic"
+    ]
+  },
+  "jaspillite_hematite": {
+    "ore": "tfc:hematite",
+    "width": 10,
+    "height": 5,
+    "shape": "cluster",
+    "rarity": 90,
+    "minimum_height": 128,
+    "maximum_height": 140,
+    "density": 10,
+    "base_rocks": [
+      "tfc:jaspillite"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+recipes.remove(<cathedral:dwemer_bars_normal>);
+recipes.remove(<cathedral:cathedral_chain_various:*>);
+recipes.remove(<cathedral:claytile>);
+
+recipes.addShapeless("dwarven_chain", <cathedral:cathedral_chain_various:2>, [<cathedral:cathedral_chain_various:4>]);
+
+recipes.replaceAllOccurences(<chisel:basalt>, <tfc:smooth/basalt>, <cathedral:basalt_block_checkered>);
+recipes.replaceAllOccurences(<chisel:basalt>, <tfc:smooth/basalt>, <cathedral:cathedral_gargoyle_demon_basalt>);
+recipes.replaceAllOccurences(<chisel:basalt>, <tfc:smooth/basalt>, <cathedral:cathedral_pillar_various:11>);
+recipes.replaceAllOccurences(<chisel:basalt>, <tfc:smooth/basalt>, <cathedral:cathedral_railing_various:11>);
+recipes.replaceAllOccurences(<chisel:basalt>, <tfc:smooth/basalt>, <cathedral:dwemer_block_carved>);
+recipes.replaceAllOccurences(<chisel:limestone>, <tfc:smooth/limestone>, <cathedral:cathedral_gargoyle_demon_limestone>);
+recipes.replaceAllOccurences(<chisel:limestone>, <tfc:smooth/limestone>, <cathedral:cathedral_pillar_various:10>);
+recipes.replaceAllOccurences(<chisel:limestone>, <tfc:smooth/limestone>, <cathedral:cathedral_railing_various:10>);
+recipes.replaceAllOccurences(<chisel:marble>, <tfc:smooth/marble>, <cathedral:basalt_block_checkered>);
+recipes.replaceAllOccurences(<chisel:marble>, <tfc:smooth/marble>, <cathedral:cathedral_gargoyle_demon_marble>);
+recipes.replaceAllOccurences(<chisel:marble>, <tfc:smooth/marble>, <cathedral:cathedral_pillar_various:9>);
+recipes.replaceAllOccurences(<chisel:marble>, <tfc:smooth/marble>, <cathedral:cathedral_railing_various:9>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <cathedral:dwemer_block_carved:11>, <cathedral:cathedral_gargoyle_demon_dwemer>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <minecraft:end_stone>, <cathedral:cathedral_gargoyle_demon_endstone>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <minecraft:nether_brick>, <cathedral:cathedral_gargoyle_demon_netherbrick>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <minecraft:obsidian>, <cathedral:cathedral_gargoyle_demon_obsidian>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <minecraft:packed_ice>, <cathedral:cathedral_gargoyle_demon_packedice>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <minecraft:red_sandstone>, <cathedral:cathedral_gargoyle_demon_redsandstone>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <minecraft:sandstone>, <cathedral:cathedral_gargoyle_demon_sandstone>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <minecraft:snow>, <cathedral:cathedral_gargoyle_demon_snow>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <ore:stonePolished>, <cathedral:cathedral_gargoyle_demon_stone>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <tfc:smooth/basalt>, <cathedral:cathedral_gargoyle_demon_basalt>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <tfc:smooth/limestone>, <cathedral:cathedral_gargoyle_demon_limestone>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <tfc:smooth/marble>, <cathedral:cathedral_gargoyle_demon_marble>);
+recipes.replaceAllOccurences(<minecraft:lit_pumpkin>, <tfc:smooth/quartzite>, <cathedral:cathedral_gargoyle_demon_quartz>);
+recipes.replaceAllOccurences(<minecraft:quartz>, <tfc:smooth/quartzite>, <cathedral:cathedral_gargoyle_demon_quartz>);
+recipes.replaceAllOccurences(<minecraft:quartz_block>, <tfc:smooth/quartzite>, <cathedral:cathedral_pillar_various:5>);
+recipes.replaceAllOccurences(<minecraft:quartz_block>, <tfc:smooth/quartzite>, <cathedral:cathedral_railing_various:5>);
+recipes.replaceAllOccurences(<minecraft:stone>, <ore:stonePolished>, <cathedral:cathedral_gargoyle_demon_stone>);
+recipes.replaceAllOccurences(<minecraft:stone>, <ore:stonePolished>, <cathedral:cathedral_pillar_various>);
+recipes.replaceAllOccurences(<minecraft:stone>, <ore:stonePolished>, <cathedral:cathedral_railing_various>);

@@ -1,0 +1,1 @@
+recipes.removeByRecipeName("minecraft:medicine_vial");

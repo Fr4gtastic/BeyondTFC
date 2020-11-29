@@ -1,0 +1,25 @@
+import mods.terrafirmacraft.ItemRegistry;
+
+// ItemRegistry.registerFood(IIngredient input, int hunger, float water, float saturation, float decay, float grain, float veg, float fruit, float meat, float dairy);
+ItemRegistry.registerFood(<betterwithaddons:food_bowl_rice>, 4, 0, 1, 1.5, 3, 0, 0, 0, 0);
+ItemRegistry.registerFood(<betterwithaddons:food_ground_meat>, 4, 0, 0, 2, 0, 0, 0, 1.5, 0);
+ItemRegistry.registerFood(<betterwithaddons:food_meatballs>, 4, 0, 1, 1.5, 0, 0, 0, 2.5, 0);
+ItemRegistry.registerFood(<betterwithaddons:food_pie_meat>, 4, 0, 4, 2, 1, 0, 0, 3.8, 0.3);
+ItemRegistry.registerFood(<betterwithaddons:food_pie_mushroom>, 4, 0, 1.5, 1.5, 1, 0, 0, 2, 0.3);
+ItemRegistry.registerFood(<betterwithmods:apple_pie>, 4, 0, 1, 2, 1, 0, 1, 0.1, 0.3);
+ItemRegistry.registerFood(<minecraft:cookie>, 4, 0, 1, 2, 1, 0, 0.5, 0.1, 0.3);
+ItemRegistry.registerFood(<betterwithmods:bat_wing>, 4, 0, 0, 2, 0, 0, 0, 1.5, 0);
+ItemRegistry.registerFood(<betterwithmods:beef_dinner>, 4, 0, 2, 1.5, 0, 2.5, 0, 2.5, 0);
+ItemRegistry.registerFood(<betterwithmods:beef_potatoes>, 4, 0, 2, 1.5, 0, 1.5, 0, 2.5, 0);
+ItemRegistry.registerFood(<betterwithmods:cooked_bat_wing>, 4, 0, 1, 1.5, 0, 0, 0, 2.5, 0);
+ItemRegistry.registerFood(<betterwithmods:cooked_kebab>, 4, 0, 2, 1.5, 0, 1, 0, 3, 0);
+ItemRegistry.registerFood(<betterwithmods:cooked_mystery_meat>, 4, 0, 1, 1.5, 0, 0, 0, 2.5, 0);
+ItemRegistry.registerFood(<betterwithmods:cooked_omelet>, 4, 0, 0.5, 2.5, 0, 0, 0, 2, 1);
+ItemRegistry.registerFood(<betterwithmods:cooked_scrambled_egg>, 4, 0, 0.5, 2.5, 0, 0, 0, 2, 1);
+ItemRegistry.registerFood(<betterwithmods:ham_and_eggs>, 4, 0, 2, 2, 0, 0, 0, 3.3, 0.3);
+ItemRegistry.registerFood(<betterwithmods:mystery_meat>, 4, 0, 0, 2, 0, 0, 0, 1.5, 0);
+ItemRegistry.registerFood(<betterwithmods:pork_dinner>, 4, 0, 2, 1.5, 0, 2.5, 0, 2.5, 0);
+ItemRegistry.registerFood(<betterwithmods:raw_kebab>, 4, 0, 0, 2, 0, 1, 0, 1.5, 0);
+ItemRegistry.registerFood(<rustic:wildberries>, 4, 5, 0.4, 2.5, 0, 0, 0.8, 0, 0);
+ItemRegistry.registerFood(<rustic:grapes>, 4, 5, 0.4, 2.5, 0, 0, 0.8, 0, 0);
+ItemRegistry.registerFood(<rustic:chili_pepper>, 4, -5, 1, 2.5, 0, 1, 0, 0, 0);

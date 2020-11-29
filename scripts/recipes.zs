@@ -1,0 +1,44 @@
+recipes.removeByRecipeName("minecraft:black_banner");
+recipes.removeByRecipeName("minecraft:black_carpet");
+recipes.removeByRecipeName("minecraft:blue_banner");
+recipes.removeByRecipeName("minecraft:blue_carpet");
+recipes.removeByRecipeName("minecraft:brown_banner");
+recipes.removeByRecipeName("minecraft:brown_carpet");
+recipes.removeByRecipeName("minecraft:cyan_banner");
+recipes.removeByRecipeName("minecraft:cyan_carpet");
+recipes.removeByRecipeName("minecraft:gray_banner");
+recipes.removeByRecipeName("minecraft:gray_carpet");
+recipes.removeByRecipeName("minecraft:green_banner");
+recipes.removeByRecipeName("minecraft:green_carpet");
+recipes.removeByRecipeName("minecraft:light_blue_banner");
+recipes.removeByRecipeName("minecraft:light_blue_carpet");
+recipes.removeByRecipeName("minecraft:light_gray_banner");
+recipes.removeByRecipeName("minecraft:light_gray_carpet");
+recipes.removeByRecipeName("minecraft:lime_banner");
+recipes.removeByRecipeName("minecraft:lime_carpet");
+recipes.removeByRecipeName("minecraft:magenta_banner");
+recipes.removeByRecipeName("minecraft:magenta_carpet");
+recipes.removeByRecipeName("minecraft:orange_banner");
+recipes.removeByRecipeName("minecraft:orange_carpet");
+recipes.removeByRecipeName("minecraft:pink_banner");
+recipes.removeByRecipeName("minecraft:pink_carpet");
+recipes.removeByRecipeName("minecraft:purple_banner");
+recipes.removeByRecipeName("minecraft:purple_carpet");
+recipes.removeByRecipeName("minecraft:red_banner");
+recipes.removeByRecipeName("minecraft:red_carpet");
+recipes.removeByRecipeName("minecraft:yellow_banner");
+recipes.removeByRecipeName("minecraft:yellow_carpet");
+
+val coalGem = <ore:gemCoal>;
+val emeraldGem = <ore:gemEmerald>;
+val wool = <minecraft:wool>;
+val woolCloth = <tfc:animal/product/wool_cloth>;
+
+recipes.addShaped("coal_block", <minecraft:coal_block>, [[coalGem, coalGem, coalGem], [coalGem, coalGem, coalGem], [coalGem, coalGem, coalGem]]);
+recipes.addShaped("emerald_block", <minecraft:emerald_block>, [[emeraldGem, emeraldGem, emeraldGem], [emeraldGem, emeraldGem, emeraldGem], [emeraldGem, emeraldGem, emeraldGem]]);
+
+recipes.replaceAllOccurences(<minecraft:reeds>, <tfc:food/sugarcane>);
+recipes.replaceAllOccurences(<ore:plankWood>, <ore:lumber>, <minecraft:sign>);
+recipes.replaceAllOccurences(<minecraft:wooden_pressure_plate>, <ore:pressurePlateWood>);
+recipes.replaceAllOccurences(wool, woolCloth, <minecraft:banner:15>);
+recipes.replaceAllOccurences(wool, woolCloth, <minecraft:carpet>);
