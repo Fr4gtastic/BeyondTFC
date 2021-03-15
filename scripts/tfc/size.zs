@@ -59,6 +59,10 @@ ItemRegistry.registerItemSize(<bibliocraft:typesettingtable>, "LARGE", "MEDIUM")
 ItemRegistry.registerItemSize(<davincisvessels:anchorpoint>, "VERY_LARGE", "VERY_HEAVY");
 ItemRegistry.registerItemSize(<davincisvessels:engine>, "LARGE", "MEDIUM");
 ItemRegistry.registerItemSize(<davincisvessels:securedbed>, "LARGE", "VERY_HEAVY");
+ItemRegistry.registerItemSize(<horsepower:chopper>,"LARGE", "HEAVY");
+ItemRegistry.registerItemSize(<horsepower:chopping_block>,"LARGE", "HEAVY");
+ItemRegistry.registerItemSize(<horsepower:grindstone>,"LARGE", "HEAVY");
+ItemRegistry.registerItemSize(<horsepower:press>,"LARGE", "HEAVY");
 ItemRegistry.registerItemSize(<jarm:acacia_raft>, "LARGE", "MEDIUM");
 ItemRegistry.registerItemSize(<jarm:birch_raft>, "LARGE", "MEDIUM");
 ItemRegistry.registerItemSize(<jarm:oak_raft>, "LARGE", "MEDIUM");
