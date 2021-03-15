@@ -2,3 +2,5 @@
 !resources/**
 !scripts/**
 !config/**
+config/jei/worldSettings.cfg
+config/splash.properties
