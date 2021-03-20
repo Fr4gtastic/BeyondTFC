@@ -8,6 +8,8 @@ config/splash.properties
 config/jei/worldSettings.cfg
 /.mixin.out
 /mineraltracker
+/mods
+/resourcepacks
 /saves
 /screenshots
 /TombManyGraves

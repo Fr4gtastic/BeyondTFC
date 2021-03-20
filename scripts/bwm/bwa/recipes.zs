@@ -53,6 +53,8 @@ recipes.addShaped("pcb", <betterwithaddons:pcb_block>, [[null, stoneBrickOre, nu
 recipes.addShaped("wrought_iron_bars", <betterwithaddons:wrought_bars> * 6, [[ironBars, ironBars, ironBars], [ironBars, ironBars, ironBars]]);
 recipes.addShapeless("raw_meat_pie", <betterwithaddons:unbaked:1>, [groundMeat, groundMeat, flour, egg, sugar]);
 recipes.addShapeless("raw_mushroom_pie", <betterwithaddons:unbaked:2>, [mushroom, mushroom, flour, egg, sugar]);
+recipes.addShapeless("sashimi", <betterwithaddons:food_sashimi> * 3, [<minecraft:fish:1>, <ore:knife>.transformDamage()]);
+recipes.addShapeless("fugu", <betterwithaddons:food_pufferfish_prepared> * 3, [<minecraft:fish:3>.transformReplace(<betterwithaddons:food_fugu_sac>), <ore:knife>.transformDamage()]);
 
 val stainedBrickDef = <betterwithaddons:brick_stained>.definition;
 val stainedBricksDef = <betterwithaddons:bricks_stained>.definition;

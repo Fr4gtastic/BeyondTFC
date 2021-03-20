@@ -13,6 +13,7 @@ ItemRegistry.registerItemMetal(<cathedral:cathedral_chain_various:5>, "SILVER", 
 ItemRegistry.registerItemMetal(<cathedral:cathedral_chain_various>, "WROUGHT_IRON", 100, true);
 ItemRegistry.registerItemMetal(<cathedral:dwemer_bars_normal:*>, "BRASS", 25, true);
 ItemRegistry.registerItemMetal(<chisel:ironpane:*>, "WROUGHT_IRON", 25, true);
+ItemRegistry.registerItemMetal(<jaff:iron_hook>, "WROUGHT_IRON", 20, true);
 ItemRegistry.registerItemMetal(<rustic:chain>, "WROUGHT_IRON", 100, true);
 ItemRegistry.registerItemMetal(<rustic:dust_tiny_iron>, "WROUGHT_IRON", 10, true);
 ItemRegistry.registerItemMetal(<rustic:iron_lattice>, "WROUGHT_IRON", 30, true);
