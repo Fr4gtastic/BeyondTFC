@@ -69,6 +69,7 @@ ItemRegistry.registerItemSize(<horsepower:chopper>,"LARGE", "HEAVY");
 ItemRegistry.registerItemSize(<horsepower:chopping_block>,"LARGE", "HEAVY");
 ItemRegistry.registerItemSize(<horsepower:grindstone>,"LARGE", "HEAVY");
 ItemRegistry.registerItemSize(<horsepower:press>,"LARGE", "HEAVY");
+ItemRegistry.registerItemSize(<jaff:diamond_fishing_rod>, "SMALL", "MEDIUM");
 ItemRegistry.registerItemSize(<jaff:golden_fishing_rod>, "SMALL", "MEDIUM");
 ItemRegistry.registerItemSize(<jaff:iron_fishing_rod>, "SMALL", "MEDIUM");
 ItemRegistry.registerItemSize(<jaff:wooden_fishing_rod>, "SMALL", "MEDIUM");
