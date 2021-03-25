@@ -1,8 +1,8 @@
 #loader contenttweaker
 
-import mods.contenttweaker.VanillaFactory;
-import mods.contenttweaker.Fluid;
 import mods.contenttweaker.Color;
+import mods.contenttweaker.Fluid;
+import mods.contenttweaker.VanillaFactory;
 
 val hempOil = VanillaFactory.createFluid("hemp_oil", Color.fromHex("97CC62"));
 hempOil.setLuminosity(0);

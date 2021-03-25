@@ -1,6 +1,6 @@
-recipes.remove(<cathedral:dwemer_bars_normal>);
 recipes.remove(<cathedral:cathedral_chain_various:*>);
 recipes.remove(<cathedral:claytile>);
+recipes.remove(<cathedral:dwemer_bars_normal>);
 
 recipes.addShapeless("dwarven_chain", <cathedral:cathedral_chain_various:2>, [<cathedral:cathedral_chain_various:4>]);
 

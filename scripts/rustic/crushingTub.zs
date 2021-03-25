@@ -1,8 +1,8 @@
 import mods.rustic.CrushingTub;
 
-CrushingTub.removeRecipe(<rustic:olives>);
 CrushingTub.removeRecipe(<fluid:applejuice>);
 CrushingTub.removeRecipe(<minecraft:reeds>);
+CrushingTub.removeRecipe(<rustic:olives>);
 
 CrushingTub.addRecipe(<fluid:applejuice> * 250, null, <tfc:food/green_apple>);
 CrushingTub.addRecipe(<fluid:applejuice> * 250, null, <tfc:food/red_apple>);

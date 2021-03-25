@@ -38,7 +38,7 @@ recipes.addShaped("coal_block", <minecraft:coal_block>, [[coalGem, coalGem, coal
 recipes.addShaped("emerald_block", <minecraft:emerald_block>, [[emeraldGem, emeraldGem, emeraldGem], [emeraldGem, emeraldGem, emeraldGem], [emeraldGem, emeraldGem, emeraldGem]]);
 
 recipes.replaceAllOccurences(<minecraft:reeds>, <tfc:food/sugarcane>);
-recipes.replaceAllOccurences(<ore:plankWood>, <ore:lumber>, <minecraft:sign>);
 recipes.replaceAllOccurences(<minecraft:wooden_pressure_plate>, <ore:pressurePlateWood>);
+recipes.replaceAllOccurences(<ore:plankWood>, <ore:lumber>, <minecraft:sign>);
 recipes.replaceAllOccurences(wool, woolCloth, <minecraft:banner:15>);
 recipes.replaceAllOccurences(wool, woolCloth, <minecraft:carpet>);
