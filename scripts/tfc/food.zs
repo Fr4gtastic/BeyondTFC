@@ -6,6 +6,7 @@ ItemRegistry.registerFood(<betterwithaddons:food_clownfish_cooked>, 4, 0, 1, 1.5
 ItemRegistry.registerFood(<betterwithaddons:food_ground_meat>, 4, 0, 0, 2, 0, 0, 0, 1.5, 0);
 ItemRegistry.registerFood(<betterwithaddons:food_meatballs>, 4, 0, 1, 1.5, 0, 0, 0, 2.5, 0);
 ItemRegistry.registerFood(<betterwithaddons:food_pie_meat>, 4, 0, 4, 2, 1, 0, 0, 3.8, 0.3);
+ItemRegistry.registerFood(<betterwithaddons:food_pie_melon>, 4, 0, 1, 2, 1, 0, 2, 0.1, 0.3);
 ItemRegistry.registerFood(<betterwithaddons:food_pie_mushroom>, 4, 0, 1.5, 1.5, 1, 0, 0, 2, 0.3);
 ItemRegistry.registerFood(<betterwithaddons:food_pufferfish_baked>, 4, 0, 1, 1.5, 0, 0, 0, 2, 0);
 ItemRegistry.registerFood(<betterwithaddons:food_pufferfish_cooked>, 4, 0, 1, 1.5, 0, 0, 0, 2, 0);
@@ -31,6 +32,7 @@ ItemRegistry.registerFood(<minecraft:fish:1>, 4, 0, 0, 2, 0, 0, 0, 2, 0);
 ItemRegistry.registerFood(<minecraft:fish:2>, 4, 0, 0, 2, 0, 0, 0, 1, 0);
 ItemRegistry.registerFood(<minecraft:fish:3>, 4, 0, 0, 2, 0, 0, 0, 1, 0);
 ItemRegistry.registerFood(<minecraft:fish>, 4, 0, 0, 2, 0, 0, 0, 1, 0);
+ItemRegistry.registerFood(<minecraft:pumpkin_pie>, 4, 0, 1, 2, 1, 0, 1.5, 0.1, 0.3);
 ItemRegistry.registerFood(<rustic:chili_pepper>, 4, -5, 1, 2.5, 0, 1, 0, 0, 0);
 ItemRegistry.registerFood(<rustic:grapes>, 4, 5, 0.4, 2.5, 0, 0, 0.8, 0, 0);
 ItemRegistry.registerFood(<rustic:wildberries>, 4, 5, 0.4, 2.5, 0, 0, 0.8, 0, 0);

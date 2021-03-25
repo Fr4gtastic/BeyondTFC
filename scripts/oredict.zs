@@ -15,4 +15,4 @@
 <ore:seed>.add(<rustic:grape_stem>, <rustic:chili_pepper_seeds>, <rustic:ironwoodseed>, <tfc:crop/seeds/barley>, <tfc:crop/seeds/rye>, <tfc:crop/seeds/rice>, <tfc:crop/seeds/oat>,
                 <tfc:crop/seeds/maize>, <tfc:crop/seeds/wheat>, <tfc:crop/seeds/beet>, <tfc:crop/seeds/cabbage>, <tfc:crop/seeds/carrot>, <tfc:crop/seeds/garlic>, 
                 <tfc:crop/seeds/green_bean>, <tfc:crop/seeds/onion>, <tfc:crop/seeds/potato>, <tfc:crop/seeds/soybean>, <tfc:crop/seeds/squash>, <tfc:crop/seeds/sugarcane>,
-                <tfc:crop/seeds/tomato>, <tfc:crop/seeds/red_bell_pepper>, <tfc:crop/seeds/yellow_bell_pepper>, <tfc:crop/seeds/jute>);
+                <tfc:crop/seeds/tomato>, <tfc:crop/seeds/red_bell_pepper>, <tfc:crop/seeds/yellow_bell_pepper>, <tfc:crop/seeds/jute>, <firmalife:crop/seeds/melon>, <firmalife:crop/seeds/pumpkin>);
