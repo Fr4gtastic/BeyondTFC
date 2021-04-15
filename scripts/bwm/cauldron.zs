@@ -53,8 +53,6 @@ Cauldron.remove([<minecraft:cooked_mutton>]);
 Cauldron.remove([<minecraft:cooked_porkchop>]);
 Cauldron.remove([<minecraft:cooked_rabbit>]);
 Cauldron.remove([<minecraft:dye:2>]);
-Cauldron.remove([<minecraft:gunpowder> * 2]);
-Cauldron.remove([<minecraft:gunpowder> * 4]);
 Cauldron.remove([<minecraft:mushroom_stew>]);
 Cauldron.remove([<minecraft:planks:*>, <minecraft:glass_bottle>]);
 Cauldron.remove([<minecraft:rabbit_stew>]);
